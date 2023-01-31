@@ -23,4 +23,7 @@ Part 2 Online Analytical Processing and Problems Solving
 Part 3 Overall Summary and Conclusion
 
 ----About Dataset----
-The dataset is downloaded from SF government official website. "https://data.sfgov.org/api/views/tmnf-yvry/rows.csv?accessType=DOWNLOAD"
+
+The dataset is downloaded from SF government official website. 
+
+"https://data.sfgov.org/api/views/tmnf-yvry/rows.csv?accessType=DOWNLOAD"
